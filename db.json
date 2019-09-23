@@ -1,8 +1,11 @@
 {
-  "customers": [
+  "posts": [
     {
       "id": 1,
-      "name": "Frank"
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
